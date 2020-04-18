@@ -205,43 +205,43 @@ nav a {
     margin-bottom: 40px;
 }
 
-.box-one {
+.middle-content .boxes .box .box-one {
     background: teal;
 }
 
-.box-two {
+.middle-content .boxes .box .box-two {
     background: gold;
 }
 
-.box-three {
+.middle-content .boxes .box .box-three {
     background: cadetblue;
 }
 
-.box-four {
+.middle-content .boxes .box .box-four {
     background: coral;
 }
 
-.box-five {
+.middle-content .boxes .box .box-five {
     background: crimson;
 }
 
-.box-six {
+.middle-content .boxes .box .box-six {
     background: forestgreen;
 }
 
-.box-seven {
+.middle-content .boxes .box .box-seven {
     background: darkorange;
 }
 
-.box-eight {
+.middle-content .boxes .box .box-eight {
     background: hotpink;
 }
 
-.box-nine {
+.middle-content .boxes .box .box-nine {
     background: indigo;
 }
 
-.box-ten {
+.middle-content .boxes .box .box-ten {
     background: dodgerblue;
 }
 
